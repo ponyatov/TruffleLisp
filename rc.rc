@@ -1,2 +1,3 @@
 #!/bin/sh
-gvim -p Makefile README.md .gitignore rc.rc
+gvim -p SimpleMumblerMain.java Makefile README.md .gitignore rc.rc
+
